@@ -1,0 +1,27 @@
+/* Common Styles */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.ph-bg-secondary {
+    background-color: #264653;
+}
+
+.ph-btn-primary {
+    background-color: #E76F51;
+    border: none;
+}
+
+.ph-text-primary {
+    color: #E76F51;
+}
+
+/* Featured bikes 2021 section */
+.grayscale{
+    filter: grayscale(100%);
+}
